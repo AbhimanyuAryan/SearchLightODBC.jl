@@ -1,0 +1,10 @@
+name = "SearchLightODBC"
+uuid = "c6571b5c-4246-49bb-96df-320b8f153d23"
+authors = ["Abhi... <8083613+AbhimanyuAryan@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+ODBC = "be6f12e9-ca4f-5eb2-a339-a4f995cc0291"
+SearchLight = "340e8cb6-72eb-11e8-37ce-c97ebeb32050"
